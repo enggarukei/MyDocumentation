@@ -27,7 +27,7 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 - [Manajemen Container & Virtual Machine](server/container_vm.md)  
 
 ### 📊 **Monitoring & Troubleshooting**  
-- [Setup Zabbix untuk Pemantauan Jaringan](monitoring/zabbix.md)  
+- [Setup Zabbix untuk Pemantauan Jaringan](Setup Zabbix untuk Pemantauan Jaringan.md.md)  
 - [Log & Analisis Keamanan](monitoring/security_logs.md)  
 - [Troubleshooting Kasus Nyata](monitoring/troubleshooting.md)  
 
