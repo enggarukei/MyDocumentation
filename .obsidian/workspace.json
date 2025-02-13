@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup Zabbix untuk Pemantauan Jaringan.md",
-                "mode": "preview",
+                "file": "Documents/Setup Zabbix untuk Pemantauan Jaringan.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -168,12 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b14f999254f01d7",
+  "active": "f762bd2ef6fc508c",
   "lastOpenFiles": [
+    "img/Pasted image 20250213185820.png",
+    "img/Pasted image 20250213185817.png",
+    "Documents/Setup.md",
+    "index.md",
     "Setup Zabbix untuk Pemantauan Jaringan.md",
     "Setup Zabbix untuk Pemantauan Jaringan.md",
     "sync.sh",
-    "index.md",
     "_config.yml",
     "Complaint Page - GitHub Pages.md"
   ]

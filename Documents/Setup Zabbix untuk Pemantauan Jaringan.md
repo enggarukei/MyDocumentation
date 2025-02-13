@@ -232,6 +232,9 @@ sudo ufw reload
 ✅ **Akses Web Zabbix** tersedia di **[http://unsp.my.id](http://unsp.my.id/)**  
 ✅ **Pemantauan Host** sudah bisa dilakukan
 
+Trunk SFP+ di RouterOS CCR1036-8S+
+![[Pasted image 20250213185820.png]]
+
 ---
 
 Semoga dokumentasi ini membantu! 🚀 Jika ada pertanyaan atau kendala, silakan tanyakan. 😊
