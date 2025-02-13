@@ -27,12 +27,12 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 - [Manajemen Container & Virtual Machine](server/container_vm.md)  
 
 ### 📊 **Monitoring & Troubleshooting**  
-- [Setup Zabbix untuk Pemantauan Jaringan](Setup Zabbix untuk Pemantauan Jaringan.md)  
+- [Setup Zabbix untuk Pemantauan Jaringan](Documents/Setup Zabbix untuk Pemantauan Jaringan.md)  
 - [Log & Analisis Keamanan](monitoring/security_logs.md)  
 - [Troubleshooting Kasus Nyata](monitoring/troubleshooting.md)  
 
 ### 🛠️ **Pengelolaan Infrastruktur & Aset IT**  
-- [Website Simple Complaint Page - GitHub Page](Complaint Page - GitHub Pages.md)
+- [Website Simple Complaint Page - GitHub Page](Documents/Complaint Page - GitHub Pages.md)
 - [Inventaris Perangkat Keras & Perangkat Lunak](infra/inventory.md)  
 - [Backup & Disaster Recovery](infra/backup_recovery.md)  
 - [Prosedur Pemeliharaan dan Upgrade](infra/maintenance.md)  
