@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "30e0538cbbd33e96",
+    "id": "112f29ed16f90045",
     "type": "split",
     "children": [
       {
-        "id": "a8e9f075945a74bf",
+        "id": "60dfd68933333f4f",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f7c11d8c044497",
+            "id": "2b14f999254f01d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complaint Page - GitHub Pages.md",
-                "mode": "source",
+                "file": "Setup Zabbix untuk Pemantauan Jaringan.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complaint Page - GitHub Pages"
+              "title": "Setup Zabbix untuk Pemantauan Jaringan"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e6ac52dff9298da7",
+    "id": "9e430f4f0741e7d1",
     "type": "split",
     "children": [
       {
-        "id": "8d5733e0bc8b0427",
+        "id": "a01b8ea4b183c489",
         "type": "tabs",
         "children": [
           {
-            "id": "c258f75f77f904d1",
+            "id": "f762bd2ef6fc508c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "f42e5bda02749fb8",
+            "id": "8f354ab541aa9e1a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "4161ea888dbb08a4",
+            "id": "932623d8604f14c5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "d3e5db827fa17abc",
+    "id": "c58b51916b5b46b8",
     "type": "split",
     "children": [
       {
-        "id": "54a1c8cda6cd52f8",
+        "id": "6cd8f3120779f261",
         "type": "tabs",
         "children": [
           {
-            "id": "c5c559907af53b3a",
+            "id": "1d4f48e867b7e21e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complaint Page - GitHub Pages.md",
+                "file": "Setup Zabbix untuk Pemantauan Jaringan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Complaint Page - GitHub Pages"
+              "title": "Backlinks for Setup Zabbix untuk Pemantauan Jaringan"
             }
           },
           {
-            "id": "312b68c254f7b21f",
+            "id": "9b5d640d08d17860",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complaint Page - GitHub Pages.md",
+                "file": "Setup Zabbix untuk Pemantauan Jaringan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Complaint Page - GitHub Pages"
+              "title": "Outgoing links from Setup Zabbix untuk Pemantauan Jaringan"
             }
           },
           {
-            "id": "2bbce22f5e00b97d",
+            "id": "e8697a6076b5d344",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "d1a31b8ebd4e3418",
+            "id": "5ec20a3b442a0a62",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complaint Page - GitHub Pages.md",
+                "file": "Setup Zabbix untuk Pemantauan Jaringan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Complaint Page - GitHub Pages"
+              "title": "Outline of Setup Zabbix untuk Pemantauan Jaringan"
             }
           }
         ]
@@ -168,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6f7c11d8c044497",
+  "active": "2b14f999254f01d7",
   "lastOpenFiles": [
+    "Setup Zabbix untuk Pemantauan Jaringan.md",
+    "Setup Zabbix untuk Pemantauan Jaringan.md",
+    "sync.sh",
+    "index.md",
+    "_config.yml",
     "Complaint Page - GitHub Pages.md"
   ]
 }
