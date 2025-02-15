@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/Setup Zabbix untuk Pemantauan Jaringan.md",
+                "file": "Documents/Grafana & Prometheus NusaPutra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup Zabbix untuk Pemantauan Jaringan"
+              "title": "Grafana & Prometheus NusaPutra"
             }
           }
         ]
@@ -168,11 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f762bd2ef6fc508c",
+  "active": "2b14f999254f01d7",
   "lastOpenFiles": [
+    "Documents/Setup.md",
+    "Documents/Grafana & Prometheus NusaPutra.md",
+    "Documents/Setup Zabbix untuk Pemantauan Jaringan.md",
+    "Pasted image 20250216002849.png",
     "img/Pasted image 20250213185820.png",
     "img/Pasted image 20250213185817.png",
-    "Documents/Setup.md",
     "index.md",
     "Setup Zabbix untuk Pemantauan Jaringan.md",
     "Setup Zabbix untuk Pemantauan Jaringan.md",
