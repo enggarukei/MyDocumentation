@@ -30,13 +30,14 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 - [Setup Zabbix untuk Pemantauan Jaringan](Documents/Setup Zabbix untuk Pemantauan Jaringan.md)  
 - [Log & Analisis Keamanan](monitoring/security_logs.md)  
 - [Troubleshooting Kasus Nyata](monitoring/troubleshooting.md)  
+- [Setup Grafana & Prometheus untuk Monitoring Jaringan Nusa Putra](Documents/Grafana & Prometheus NusaPutra.md)
 
 ### 🛠️ **Pengelolaan Infrastruktur & Aset IT**  
 - [Website Simple Complaint Page - GitHub Page](Documents/Complaint Page - GitHub Pages.md)
 - [Inventaris Perangkat Keras & Perangkat Lunak](infra/inventory.md)  
 - [Backup & Disaster Recovery](infra/backup_recovery.md)  
 - [Prosedur Pemeliharaan dan Upgrade](infra/maintenance.md)  
-
+- [Installasi PBX Panasonic untuk Kebutuhan NusaPutra]()
 ---
 
 ## 🚀 **Cara Menggunakan Dokumentasi Ini**  
