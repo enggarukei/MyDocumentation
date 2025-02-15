@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/PBX NusaPutra.md",
+                "file": "Documents/Grafana & Prometheus NusaPutra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PBX NusaPutra"
+              "title": "Grafana & Prometheus NusaPutra"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "2b14f999254f01d7",
   "lastOpenFiles": [
-    "Documents/Grafana & Prometheus NusaPutra.md",
     "Documents/PBX NusaPutra.md",
+    "Documents/Pasted image 20250216002849.png",
+    "Documents/Grafana & Prometheus NusaPutra.md",
     "Documents/Setup.md",
     "Documents/Setup Zabbix untuk Pemantauan Jaringan.md",
     "Pasted image 20250216002849.png",
