@@ -268,4 +268,4 @@ Anda sekarang memiliki **Network Monitoring** untuk **MikroTik** menggunakan **P
 Jika ada pertanyaan atau kendala, silakan tanyakan! 🚀
 
 
-![Alt Text](img/Pasted\ image\ 20250216002849.png)
+![Alt Text](img/Pasted image 20250216002849.png)
