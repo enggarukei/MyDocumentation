@@ -1,4 +1,3 @@
-Baik! Saya akan membantu Anda membuat **Network Monitoring untuk MikroTik** menggunakan **Debian Server 12**, **Grafana**, dan **Prometheus**. Kita juga akan menggunakan **SNMP Exporter** agar **Prometheus** bisa mengambil data dari MikroTik.
 
 ---
 
