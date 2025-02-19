@@ -37,7 +37,7 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 - [Inventaris Perangkat Keras & Perangkat Lunak](infra/inventory.md)  
 - [Backup & Disaster Recovery](infra/backup_recovery.md)  
 - [Prosedur Pemeliharaan dan Upgrade](infra/maintenance.md)  
-- [Installasi PBX Panasonic untuk Kebutuhan NusaPutra]()
+
 ---
 
 ## 🚀 **Cara Menggunakan Dokumentasi Ini**  
