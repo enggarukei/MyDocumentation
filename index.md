@@ -28,9 +28,8 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 
 ### 📊 **Monitoring & Troubleshooting**  
 - [Setup Zabbix untuk Pemantauan Jaringan](Documents/Setup Zabbix untuk Pemantauan Jaringan.md)  
-- [Log & Analisis Keamanan](monitoring/security_logs.md)  
-- [Troubleshooting Kasus Nyata](monitoring/troubleshooting.md)  
 - [Setup Grafana & Prometheus untuk Monitoring Jaringan Nusa Putra](Documents/Grafana & Prometheus NusaPutra.md)
+- [Setup SSL untuk Monitoring Grafana & Prometheus Universitas Nusa Putra](/monitoring/ssl.md)
 
 ### 🛠️ **Pengelolaan Infrastruktur & Aset IT**  
 - [Website Simple Complaint Page - GitHub Page](Documents/Complaint Page - GitHub Pages.md)

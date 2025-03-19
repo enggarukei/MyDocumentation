@@ -117,7 +117,7 @@ Sebagai langkah dalam meningkatkan pengawasan dan optimasi jaringan di Nusa Putr
 
 ---
 
-[Realtime Data Source](/img/Grafana.png)
+![Realtime Data Source](/img/Grafana.png)
 
 --- 
 
