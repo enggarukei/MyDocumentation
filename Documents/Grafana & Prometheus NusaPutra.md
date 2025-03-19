@@ -119,6 +119,9 @@ Sebagai langkah dalam meningkatkan pengawasan dan optimasi jaringan di Nusa Putr
 
 ![Realtime](/img/Grafana.png)
 
+atau bisa diakses pada link:
+https://monitoring.kaldyta.com
+
 --- 
 
 ### **5. Kesimpulan & Langkah Selanjutnya**
