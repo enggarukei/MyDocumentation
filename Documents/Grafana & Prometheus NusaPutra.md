@@ -117,6 +117,10 @@ Sebagai langkah dalam meningkatkan pengawasan dan optimasi jaringan di Nusa Putr
 
 ---
 
+![Realtime Data Source](/img/Grafana.png)
+
+--- 
+
 ### **5. Kesimpulan & Langkah Selanjutnya**
 
 - **Sistem monitoring berjalan dengan baik**, memungkinkan pemantauan trafik secara **real-time** dan **historis**.
