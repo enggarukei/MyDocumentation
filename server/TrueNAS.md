@@ -96,7 +96,7 @@ Jika menggunakan Proxmox:
 
 ---
 ## Tentang Cara Penggunaan TrueNAS di Universitas Nusa Putra
-<iframe src="https://drive.google.com/file/d/1-aitWKslHMD3fKAd-WbHR7w9d5aWUP0Q/view?usp=drive_link" width="100%" height="600px"></iframe>
+<iframe src="https://drive.google.com/file/d/1-aitWKslHMD3fKAd-WbHR7w9d5aWUP0Q/view?usp=sharing" width="100%" height="600px"></iframe>
 
 --- 
 
