@@ -36,8 +36,6 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 ### **Pengelolaan Infrastruktur & Aset IT**  
 - [Website Simple Complaint Page - GitHub Page](Documents/Complaint Page - GitHub Pages.md)
 - [Inventaris Perangkat Keras & Perangkat Lunak](infra/inventory.md)  
-- [Backup & Disaster Recovery](infra/backup_recovery.md)  
-- [Prosedur Pemeliharaan dan Upgrade](infra/maintenance.md)  
 
 ---
 
