@@ -6,7 +6,7 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 
 ---
 
-## 🎯 **Tujuan Dokumentasi**  
+## **Tujuan Dokumentasi**  
 ✅ **Mempermudah Pengelolaan Infrastruktur IT**  
 ✅ **Mempercepat Troubleshooting & Analisis Masalah**  
 ✅ **Menyediakan Standar Operasional untuk Konsistensi**  
@@ -14,25 +14,25 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 
 ---
 
-## 📌 **Daftar Dokumentasi**  
+## **Daftar Dokumentasi**  
 
 ### 🔧 **Konfigurasi Jaringan**  
 - [Setup MikroTik & Cisco](network/mikrotik_cisco.md)  
 - [Implementasi VLAN, Routing, NAT](network/vlan_routing.md)  
 - [Firewall & Keamanan Jaringan](network/firewall_security.md)  
 
-### 🖥️ **Manajemen Server & Virtualisasi**  
+### **Manajemen Server & Virtualisasi**  
 - [Instalasi & Konfigurasi Proxmox](server/proxmox.md)  
 - [DNS, DHCP, dan Web Server](server/dns_dhcp_web.md)  
 - [Manajemen Container & Virtual Machine](server/container_vm.md)  
 - [DNS Resolver Universitas Nusa Putra](server/dns-resolv.md)
 
-### 📊 **Monitoring & Troubleshooting**  
+### **Monitoring & Troubleshooting**  
 - [Setup Zabbix untuk Pemantauan Jaringan](Documents/Setup Zabbix untuk Pemantauan Jaringan.md)  
 - [Setup Grafana & Prometheus untuk Monitoring Jaringan Nusa Putra](Documents/Grafana & Prometheus NusaPutra.md)
 - [Setup SSL untuk Monitoring Grafana & Prometheus Universitas Nusa Putra](/monitoring/ssl.md)
 
-### 🛠️ **Pengelolaan Infrastruktur & Aset IT**  
+### **Pengelolaan Infrastruktur & Aset IT**  
 - [Website Simple Complaint Page - GitHub Page](Documents/Complaint Page - GitHub Pages.md)
 - [Inventaris Perangkat Keras & Perangkat Lunak](infra/inventory.md)  
 - [Backup & Disaster Recovery](infra/backup_recovery.md)  
@@ -40,7 +40,7 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 
 ---
 
-## 🚀 **Cara Menggunakan Dokumentasi Ini**  
+## **Cara Menggunakan Dokumentasi Ini**  
 Dokumentasi ini dirancang agar mudah diakses dan diperbarui secara berkala. Anda dapat menavigasi melalui daftar dokumentasi di atas untuk menemukan informasi yang dibutuhkan. Jika terdapat perubahan atau pembaruan, silakan periksa **changelog** di halaman [Pembaruan Dokumentasi](changelog.md).  
 
 💡 **Kontribusi & Feedback**  
