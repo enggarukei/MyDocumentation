@@ -7,16 +7,16 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 ---
 
 ## **Tujuan Dokumentasi**  
-✅ **Mempermudah Pengelolaan Infrastruktur IT**  
-✅ **Mempercepat Troubleshooting & Analisis Masalah**  
-✅ **Menyediakan Standar Operasional untuk Konsistensi**  
-✅ **Memudahkan Transfer Pengetahuan ke Tim IT Lainnya**  
+**Mempermudah Pengelolaan Infrastruktur IT**  
+**Mempercepat Troubleshooting & Analisis Masalah**  
+**Menyediakan Standar Operasional untuk Konsistensi**  
+**Memudahkan Transfer Pengetahuan ke Tim IT Lainnya**  
 
 ---
 
 ## **Daftar Dokumentasi**  
 
-### 🔧 **Konfigurasi Jaringan**  
+### **Konfigurasi Jaringan**  
 - [Setup MikroTik & Cisco](network/mikrotik_cisco.md)  
 - [Implementasi VLAN, Routing, NAT](network/vlan_routing.md)  
 - [Firewall & Keamanan Jaringan](network/firewall_security.md)  
