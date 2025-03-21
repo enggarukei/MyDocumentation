@@ -25,6 +25,7 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 - [Instalasi & Konfigurasi Proxmox](server/proxmox.md)  
 - [DNS, DHCP, dan Web Server](server/dns_dhcp_web.md)  
 - [Manajemen Container & Virtual Machine](server/container_vm.md)  
+- [DNS Resolver Universitas Nusa Putra](server/dns-resolv.md)
 
 ### 📊 **Monitoring & Troubleshooting**  
 - [Setup Zabbix untuk Pemantauan Jaringan](Documents/Setup Zabbix untuk Pemantauan Jaringan.md)  
