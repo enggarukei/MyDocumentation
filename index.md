@@ -26,6 +26,7 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 - [DNS, DHCP, dan Web Server](server/dns_dhcp_web.md)  
 - [Manajemen Container & Virtual Machine](server/container_vm.md)  
 - [DNS Resolver Universitas Nusa Putra](server/dns-resolv.md)
+- [TrueNAS - Network Attachment Nusa Putra](server/TrueNAS.md)
 
 ### **Monitoring & Troubleshooting**  
 - [Setup Zabbix untuk Pemantauan Jaringan](Documents/Setup Zabbix untuk Pemantauan Jaringan.md)  
