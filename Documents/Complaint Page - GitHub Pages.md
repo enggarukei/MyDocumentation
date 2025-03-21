@@ -103,7 +103,7 @@ Pembuatan **Website Complaint Page** ini merupakan langkah awal dalam digitalisa
 
 ---
 
-[[/img/Screenshot From 2025-03-21 21-48-09.png]]
+![Screenshoot](/img/Screenshot%20From%202025-03-21%2021-48-09.png)
 
 
 ---
