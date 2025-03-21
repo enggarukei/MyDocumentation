@@ -117,7 +117,7 @@ Sebagai langkah dalam meningkatkan pengawasan dan optimasi jaringan di Nusa Putr
 
 ---
 
-![Realtime](/img/Grafana.png)
+[Trunk SFP+ ALL Outcome Network](https://drive.google.com/file/d/18CqPIDo9zw2k65FocyNU3yyUL0OjNzZL/view?usp=sharing)
 
 atau bisa diakses pada link:
 https://monitoring.kaldyta.com
