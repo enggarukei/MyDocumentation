@@ -1,7 +1,7 @@
 # Dokumentasi DNS Resolver untuk Nusa Putra
 
 ## Pendahuluan
-DNS Resolver adalah layanan yang menerjemahkan nama domain menjadi alamat IP agar komputer dapat berkomunikasi melalui jaringan. Dalam proyek ini, kita akan membuat **DNS Resolver untuk Nusa Putra** menggunakan **Unbound** di **VM Proxmox**, dengan **IP 10.10.10.12** dan melakukan **port forwarding ke IP publik 103.182.195.180** di **MikroTik**.
+DNS Resolver adalah layanan yang menerjemahkan nama domain menjadi alamat IP agar komputer dapat berkomunikasi melalui jaringan. Dalam proyek ini, kita akan membuat **DNS Resolver untuk Nusa Putra** menggunakan **Unbound** di **VM Proxmox**, dengan **IP 10.10.10.12** dan melakukan **port forwarding ke IP publik 103.182.xxx.xxx** di **MikroTik** agar setiap Koneksi dapat di Hit ke DNS Local terlebih dahulu dengan tujuan meningkatkan performa setiap client agar pengaksesan sebuah situs tidak perlu lama dan server DNS Resolve sudah menyimpan Cache.
 
 ## Persiapan
 ### Perangkat yang Digunakan:
