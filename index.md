@@ -24,12 +24,12 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 - [TrueNAS - Network Attachment Nusa Putra](server/TrueNAS.md)
 
 ### **Monitoring & Troubleshooting**  
-- [Setup Zabbix untuk Pemantauan Jaringan](/Documents/Setup%20Zabbix%20untuk%20Pemantauan%20Jaringan.md)  
-- [Setup Grafana & Prometheus untuk Monitoring Jaringan Nusa Putra](/Documents/Grafana%20&%20Prometheus%20NusaPutra.md)
+- [Setup Zabbix untuk Pemantauan Jaringan](/Documents/Setup Zabbix untuk Pemantauan Jaringan.md)  
+- [Setup Grafana & Prometheus untuk Monitoring Jaringan Nusa Putra](/Documents/Grafana & Prometheus NusaPutra.md)
 - [Setup SSL untuk Monitoring Grafana & Prometheus Universitas Nusa Putra](/monitoring/ssl.md)
 
 ### **Pengelolaan Infrastruktur & Aset IT**  
-- [Website Simple Complaint Page - GitHub Page](/Documents/Complaint%20Page%20-%20GitHub%20Pages.md)  
+- [Website Simple Complaint Page - GitHub Page](/Documents/Complaint Page - GitHub Pages.md)  
 
 ---
 
