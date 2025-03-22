@@ -17,9 +17,7 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 ## **Daftar Dokumentasi**  
 
 ### **Konfigurasi Jaringan**  
-- [Setup MikroTik & Cisco](network/mikrotik_cisco.md)  
-- [Implementasi VLAN, Routing, NAT](network/vlan_routing.md)  
-- [Firewall & Keamanan Jaringan](network/firewall_security.md)  
+- [Limitasi Network (VLAN Dosen, VLAN Mahasiswa, VLAN Gd A, dan Priority Zoom)](network/Limitasi-queue-tree.md) 
 
 ### **Manajemen Server & Virtualisasi**  
 - [Instalasi & Konfigurasi Proxmox](server/proxmox.md)  
