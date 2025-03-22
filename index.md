@@ -19,21 +19,17 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 ### **Konfigurasi Jaringan**  
 - [Limitasi Network (VLAN Dosen, VLAN Mahasiswa, VLAN Gd A, dan Priority Zoom)](network/Limitasi-queue-tree.md) 
 
-### **Manajemen Server & Virtualisasi**  
-- [Instalasi & Konfigurasi Proxmox](server/proxmox.md)  
-- [DNS, DHCP, dan Web Server](server/dns_dhcp_web.md)  
-- [Manajemen Container & Virtual Machine](server/container_vm.md)  
+### **Manajemen Server & Virtualisasi**   
 - [DNS Resolver Universitas Nusa Putra](server/dns-resolv.md)
 - [TrueNAS - Network Attachment Nusa Putra](server/TrueNAS.md)
 
 ### **Monitoring & Troubleshooting**  
-- [Setup Zabbix untuk Pemantauan Jaringan](Documents/Setup Zabbix untuk Pemantauan Jaringan.md)  
-- [Setup Grafana & Prometheus untuk Monitoring Jaringan Nusa Putra](Documents/Grafana & Prometheus NusaPutra.md)
+- [Setup Zabbix untuk Pemantauan Jaringan](/Documents/Setup%20Zabbix%20untuk%20Pemantauan%20Jaringan.md)  
+- [Setup Grafana & Prometheus untuk Monitoring Jaringan Nusa Putra](/Documents/Grafana%20&%20Prometheus%20NusaPutra.md)
 - [Setup SSL untuk Monitoring Grafana & Prometheus Universitas Nusa Putra](/monitoring/ssl.md)
 
 ### **Pengelolaan Infrastruktur & Aset IT**  
-- [Website Simple Complaint Page - GitHub Page](Documents/Complaint Page - GitHub Pages.md)
-- [Inventaris Perangkat Keras & Perangkat Lunak](infra/inventory.md)  
+- [Website Simple Complaint Page - GitHub Page](/Documents/Complaint%20Page%20-%20GitHub%20Pages.md)  
 
 ---
 
