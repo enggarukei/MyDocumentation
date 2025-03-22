@@ -104,10 +104,13 @@ Berikut adalah tangkapan layar konfigurasi:
 - **Konfigurasi Mangle** 
 ![Tampilan Mangle](/img/network/Mangle.png)
 
+[Tampilan Mangle Configuration](https://drive.google.com/file/d/1MVYYCZz-YXjd4YKQDIj1UtCDnfn7S3c1/view?usp=sharing)
 ---
 
 - **Konfigurasi Queue Tree** 
 ![Tampilan Queue-Tree](/img/network/queue-tree.png)
+
+[Queue-Tree](https://drive.google.com/file/d/1IU1_A8uw44iXQYS-BohrkcPu6vqs6vLu/view?usp=sharing)
 
 ---
 
