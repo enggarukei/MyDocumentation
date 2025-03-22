@@ -102,12 +102,12 @@ Implementasi **Queue Tree menggunakan Mangle** memungkinkan pengaturan bandwidth
 ## 5. Lampiran
 Berikut adalah tangkapan layar konfigurasi:
 - **Konfigurasi Mangle** 
-<img src="img/network/Mangle.png" alt="Tampilan Mangle" width="600">
+![Tampilan Mangle](/img/network/Mangle.png)
 
 ---
 
 - **Konfigurasi Queue Tree** 
-<img src="img/network/queue-tree.png" alt="Tampilan Queue Tree" width="600">
+![Tampilan Queue-Tree](/img/network/queue-tree.png)
 
 ---
 
