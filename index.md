@@ -22,6 +22,7 @@ Dokumentasi ini berisi catatan teknis, konfigurasi, troubleshooting, serta prose
 ### **Manajemen Server & Virtualisasi**   
 - [DNS Resolver Universitas Nusa Putra](server/dns-resolv.md)
 - [TrueNAS - Network Attachment Nusa Putra](server/TrueNAS.md)
+- [OpenMediaVault for Universitas Nusa Putra](server/openmediavault.md)
 
 ### **Monitoring & Troubleshooting**  
 - [Setup Zabbix untuk Pemantauan Jaringan](/Documents/Setup Zabbix untuk Pemantauan Jaringan.md)  
